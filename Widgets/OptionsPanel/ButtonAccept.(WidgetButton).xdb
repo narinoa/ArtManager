@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetButton>
+  <Name>ButtonAccept</Name>
+  <Placement>
+    <X>
+      <Pos>10</Pos>
+      <Size>27</Size>
+    </X>
+    <Y>
+      <Size>27</Size>
+	  <Pos>17</Pos>
+    </Y>
+  </Placement>
+  <IgnoreDblClick>true</IgnoreDblClick>
+  <Variants>
+    <Item>
+      <LayerHighlight href="Textures/ButtonHighlighted.(WidgetLayerSimpleTexture).xdb" />
+      <StateNormal>
+        <LayerMain href="Textures/ButtonAcceptNormal.(WidgetLayerSimpleTexture).xdb"/>
+      </StateNormal>
+      <StatePushed>
+        <LayerMain href="Textures/ButtonAcceptPressed.(WidgetLayerSimpleTexture).xdb"/>
+      </StatePushed>
+      <Reaction>accept</Reaction>
+      <ReactionOnUp>true</ReactionOnUp>
+	  
+    </Item>
+  </Variants>
+  <Visible>true</Visible>
+</WidgetButton>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetLayerSimpleTexture>
+	<Color>0x40c0ff60</Color>
+	<BlendEffect>BLEND_EFFECT_ADD</BlendEffect>
+	<textureItem href="ScrollSliderBtnHighlight.(UITextureElement).xdb#xpointer(/UITextureElement)" />
+	<textureMask href="" />
+	<Scaling>true</Scaling>
+</WidgetLayerSimpleTexture>

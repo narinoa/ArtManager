@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<UITexture>
+  <mipsNumber>1</mipsNumber>
+  <type>DXT5</type>
+  <width>32</width>
+  <height>32</height>
+  <realWidth>23</realWidth>
+  <realHeight>23</realHeight>
+  <binaryFileSize>377</binaryFileSize>
+  <binaryFile href="ScrollDown.(UITexture).bin" />  
+</UITexture>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetPanel>
+	<Name>OptionsPanel</Name>
+	<Priority>4</Priority>
+	<Children>
+		<Item href="HeaderText.(WidgetTextView).xdb#xpointer(/WidgetTextView)" />
+		<Item href="Container.(WidgetScrollableContainer).xdb#xpointer(/WidgetScrollableContainer)" />
+		<Item href="ButtonCornerCross.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+		<Item href="ItemPanel.(WidgetPanel).xdb#xpointer(/WidgetPanel)" />
+		<Item href="ButtonAdd.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+	</Children>
+	<BackLayer href="textures/MainFrame.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+	<Placement>
+			<X>
+			<Pos>0</Pos>
+			<Size>350</Size>
+		</X>
+		<Y>
+			<Pos>0</Pos>
+			<Size>313</Size>
+		</Y>
+	</Placement>
+	<clipContent>false</clipContent>
+	<Visible>false</Visible>
+</WidgetPanel>

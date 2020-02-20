@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetLayerTiledTexture>
+  <Color>0xffffffff</Color>
+  <Grayed>false</Grayed>
+  <BlendEffect>BLEND_EFFECT_ADD</BlendEffect>
+  <flatPlacement>false</flatPlacement>
+  <lazyLoad>false</lazyLoad>
+  <textureItem href="ButtonSettingsHighlight.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+  <Layout>
+    <LeftX>0</LeftX>
+    <MiddleX>37</MiddleX>
+    <RightX>0</RightX>
+    <TopY>0</TopY>
+    <MiddleY>37</MiddleY>
+    <BottomY>0</BottomY>
+  </Layout>
+</WidgetLayerTiledTexture>

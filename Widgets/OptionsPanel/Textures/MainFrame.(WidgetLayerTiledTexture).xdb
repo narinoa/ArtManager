@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetLayerTiledTexture>
+  <textureItem href="MainFrame.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+  <Layout>
+    <LeftX>185</LeftX>
+    <MiddleX>16</MiddleX>
+    <RightX>185</RightX>
+    <TopY>155</TopY>
+    <MiddleY>15</MiddleY>
+    <BottomY>155</BottomY>
+  </Layout>
+</WidgetLayerTiledTexture>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetLayerTiledTexture>
+  <textureItem href="ScrollThumb.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+  <Layout>
+    <LeftX>22</LeftX>
+    <TopY>23</TopY>
+  </Layout>
+</WidgetLayerTiledTexture>

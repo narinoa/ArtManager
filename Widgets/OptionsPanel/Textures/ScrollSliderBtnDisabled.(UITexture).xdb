@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<UITexture>
+	<mipSW>-1</mipSW>
+	<mipsNumber>1</mipsNumber>
+	<generateMipChain>false</generateMipChain>
+	<type>DXT5</type>
+	<width>64</width>
+	<height>32</height>
+	<realWidth>36</realWidth>
+	<realHeight>24</realHeight>
+	<disableLODControl>false</disableLODControl>
+	<alphaTex>true</alphaTex>
+	<binaryFileSize>510</binaryFileSize>
+	<binaryFile href="ScrollSliderBtnDisabled.(UITexture).bin" />
+	<wrap>false</wrap>
+	<LocalizationInfo />
+	<pool>UNDEFINED</pool>
+</UITexture>

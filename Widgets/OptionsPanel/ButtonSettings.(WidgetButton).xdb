@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetButton>
+	<Name>ButtonSettings</Name>
+	<Priority>250</Priority>
+	<Placement>
+		<X>
+			 <Align>WIDGET_ALIGN_CENTER</Align>
+			<Size>40</Size>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_CENTER</Align>
+			<Size>40</Size>
+		</Y>
+	</Placement>
+	<Enabled>true</Enabled>
+	<IgnoreDblClick>true</IgnoreDblClick>
+	<Variants>
+		<Item>
+			<LayerHighlight href="textures/ButtonSettingsHighlight.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+			<PushedOffset x="-2" y="2" />
+			<StateNormal>
+				<LayerMain href="textures/ButtonSettingsNormal.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+			</StateNormal>
+			<StatePushed>
+				<LayerMain href="textures/ButtonSettingsPressed.(WidgetLayerSimpleTexture).xdb#xpointer(/WidgetLayerSimpleTexture)" />
+			</StatePushed>
+			<ReactionOnUp>true</ReactionOnUp>
+			<Reaction>ButtonReaction</Reaction>
+			<ReactionRightClick>ButtonReactionRight</ReactionRightClick>
+		</Item>
+	</Variants>
+</WidgetButton>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetGlideScrollBar>
+	<Priority>1</Priority>
+  <Placement>
+    <X>
+      <Align>WIDGET_ALIGN_HIGH</Align>
+      <Size>21</Size>
+    </X>
+    <Y>
+      <Align>WIDGET_ALIGN_BOTH</Align>
+    </Y>
+  </Placement>
+  <incButton href="ButtonDown/ButtonDown.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+  <decButton href="ButtonUp/ButtonUp.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+  <slider href="Slider/Slider.(WidgetGlideSlider).xdb#xpointer(/WidgetGlideSlider)" />
+</WidgetGlideScrollBar>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetPanel>
+	<Name>ItemPanel</Name>
+	<Children>
+		<Item href="Text.(WidgetTextView).xdb#xpointer(/WidgetTextView)" />
+		<Item href="IconPanel.(WidgetPanel).xdb#xpointer(/WidgetPanel)" />
+		<Item href="ButtonDelete.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+		<Item href="ButtonAccept.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+	</Children>
+	<BackLayer href="Textures/Slot.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_BOTH</Align>
+			<Pos>5</Pos>
+			<HighPos>25</HighPos>
+
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Size>60</Size>
+		</Y>
+	</Placement>
+	<Visible>false</Visible>
+</WidgetPanel>

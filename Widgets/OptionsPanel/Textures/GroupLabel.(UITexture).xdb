@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<UITexture>
+	<mipSW>-1</mipSW>
+	<mipsNumber>1</mipsNumber>
+	<generateMipChain>false</generateMipChain>
+	<type>DXT5</type>
+	<width>128</width>
+	<height>32</height>
+	<realWidth>96</realWidth>
+	<realHeight>26</realHeight>
+	<disableLODControl>false</disableLODControl>
+	<alphaTex>true</alphaTex>
+	<binaryFileSize>973</binaryFileSize>
+	<binaryFile href="GroupLabel.(UITexture).bin" />
+	<wrap>false</wrap>
+	<LocalizationInfo />
+	<pool>UNDEFINED</pool>
+</UITexture>

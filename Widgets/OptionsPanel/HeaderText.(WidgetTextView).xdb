@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetTextView>
+	<Name>HeaderText</Name>
+	<BackLayer href="textures/TiledHeader.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_CENTER</Align>
+			<Size>270</Pos>
+			<HighPos>20</HighPos>
+		</X>
+		<Y>
+			<Pos>-12</Pos>
+			<Size>40</Size>
+		</Y>
+	</Placement>
+	<FormatFileRef href="Header.txt" />
+	<TransparentInput>true</TransparentInput>
+</WidgetTextView>

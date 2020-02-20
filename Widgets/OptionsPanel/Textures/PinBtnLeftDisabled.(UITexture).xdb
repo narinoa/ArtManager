@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<UITexture>
+	<mipSW>-1</mipSW>
+	<mipsNumber>1</mipsNumber>
+	<generateMipChain>false</generateMipChain>
+	<type>DXT5</type>
+	<width>32</width>
+	<height>32</height>
+	<realWidth>28</realWidth>
+	<realHeight>28</realHeight>
+	<disableLODControl>false</disableLODControl>
+	<alphaTex>true</alphaTex>
+	<binaryFileSize>491</binaryFileSize>
+	<binaryFile href="PinBtnLeftDisabled.(UITexture).bin" />
+	<wrap>false</wrap>
+	<LocalizationInfo />
+	<pool>UNDEFINED</pool>
+</UITexture>

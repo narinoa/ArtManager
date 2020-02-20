@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetButton>
+  <Name>ButtonAdd</Name>
+  	<Header>
+		<Prototype href="/Mods/SampleCommon/Button/ButtonRegular.Prototype.(WidgetButton).xdb#xpointer(/WidgetButton)" />
+	</Header>
+	<Placement>
+    <X>
+      <Pos>15</Pos>
+	  <Size>120</Size>
+    </X>
+    <Y>
+	<Align>WIDGET_ALIGN_HIGH</Align>
+      <Size>30</Size>
+	  <HighPos>15</HighPos>
+    </Y>
+  </Placement>
+  <IgnoreDblClick>true</IgnoreDblClick>
+<Variants>
+    <Item>
+      <Reaction>add</Reaction>
+      <ReactionOnUp>true</ReactionOnUp>
+	  
+    </Item>
+  </Variants>
+  <Visible>true</Visible>
+</WidgetButton>

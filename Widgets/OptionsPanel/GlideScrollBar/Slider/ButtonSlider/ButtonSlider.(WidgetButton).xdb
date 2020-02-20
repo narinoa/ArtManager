@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetButton>
+  <Placement>
+    <X>
+      <Align>WIDGET_ALIGN_CENTER</Align>
+      <Size>22</Size>
+    </X>
+    <Y>
+      <Align>WIDGET_ALIGN_CENTER</Align>
+      <Size>23</Size>
+    </Y>
+  </Placement>
+  <IgnoreDblClick>true</IgnoreDblClick>
+  <Variants>
+    <Item>
+      <StateNormal>
+        <LayerMain href="ScrollThumb.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+      </StateNormal>
+      <StateDisabled>
+        <LayerMain href="ScrollThumbDisabled.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+      </StateDisabled>
+    </Item>
+  </Variants>
+</WidgetButton>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetLayerSimpleTexture>
+  <BlendEffect>BLEND_EFFECT_ADD</BlendEffect>
+  <textureItem href="ScrollButtonHighlight.(UISingleTexture).xdb#xpointer(/UISingleTexture)" />
+  <Scaling>true</Scaling>
+</WidgetLayerSimpleTexture>
